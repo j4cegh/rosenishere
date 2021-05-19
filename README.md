@@ -5,4 +5,4 @@ I'm a big idiot living in Bulgaria, I'm a complete noob in code but I sometimes 
 
 
 ### I use:
-C#, Javascript, Typescript
+C#, Javascript
